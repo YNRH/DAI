@@ -1,0 +1,53 @@
+h1{
+    text-align: center;
+    color: #e63946;
+}
+.solido{
+    border: solid red;
+    border-width: 5px;
+    border-radius: 20px;
+}
+.redondeado{
+    border: 5px solid blueviolet;
+    border-radius: 20px 0px 10px 0px;
+}
+div{
+    padding: 10px;
+    border: 15px solid #457b9d;
+    margin: 20px;
+}
+/* Colores */
+.caja{
+    padding: 10px;
+    color: white;
+    width: 100px;
+    height: 80px;
+    text-align: center;
+    margin: 5px auto;
+    font-size: 10px;
+    float: left;
+}
+.rojo{
+    background-color: crimson;
+}
+.rosa{
+    background-color: deeppink;
+}
+.rgb{
+    background-color: rgb(131,56,236);
+}
+.rgba{
+    background-color: rgba(131,56,236,0.5);
+}
+.hexadecimal{
+    background-color: #0091ad;
+}
+.hexa_transparencia{
+    background-color: #0091ad88;
+}
+.hsl{
+    background-color: hsl(195,100%,50%);
+}
+.hsla{
+    background-color: hsla(195, 100%, 50%, 0.5);
+}
